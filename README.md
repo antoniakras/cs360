@@ -1,6 +1,6 @@
 #  Emergency Room (ER) Management System
 ---
-## 🚀 About  
+## 🏥 About  
 
 This project demonstrates the design and implementation of a **Java web application using Servlets, JDBC, and SQL** . It follows a **REST-style architecture**, exposing endpoints for data management and interaction with a relational database, deployed on an **Apache Tomcat container**.
 
