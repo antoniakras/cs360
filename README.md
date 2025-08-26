@@ -32,9 +32,9 @@ This project highlights skills in **backend development, normalized schema desig
 
 ## 📊 Database Design
 
- * Entity–Relationship Diagram (E-R) included to illustrate schema.
- * Schema covers entities, relationships, keys, and constraints.
- * Showcases normalization and mapping to SQL.
+ * Entity–Relationship Diagram (E-R) * included to illustrate schema.
+ * Schema * covers entities, relationships, keys, and constraints.
+ * Showcases * normalization and mapping to SQL.
 
 
 
