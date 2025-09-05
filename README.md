@@ -17,7 +17,7 @@ This project highlights skills in **backend development, normalized schema desig
 - **E-R Diagram Design** – Models hospital ER workflow with entities, relationships, keys, and constraints.
 - **Complex SQL Queries & Analytics** – Multi-table JOINs, nested subqueries, GROUP BY + HAVING for advanced reporting (top doctors, frequent patients, COVID-19 cases), and referential integrity checks.
 - **Patient History Management** – Fetches past visits, tests, and prescribed medications, including re-examinations.
-- **Deployment** – Fully configured for Apache Tomcat; ready to run and test backend functionality.
+- **Deployment** – Fully configured for Apache Tomcat.
 
 
 ---
